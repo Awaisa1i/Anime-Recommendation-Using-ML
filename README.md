@@ -36,7 +36,7 @@ The dataset used for this project includes information about anime, genres, dire
 git clone https://github.com/yourusername/Anime-Recommender-System.git](https://github.com/Awaisa1i/Anime-Recommendation-Using-ML.git
 cd Anime-Recommender-System
 ```
-## Step 2: Activate the environment
+### Step 2: Activate the environment
 ```bash
 conda activate my_env
 ```
