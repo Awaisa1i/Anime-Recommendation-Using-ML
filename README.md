@@ -37,10 +37,10 @@ git clone https://github.com/yourusername/Anime-Recommender-System.git](https://
 cd Anime-Recommender-System
 
 ### Step 2: Activate the environment
-```bash
+
 conda activate my_env
 
 ### Step 2: Run the App
-```bash
+
 streamlit run app.py
 
