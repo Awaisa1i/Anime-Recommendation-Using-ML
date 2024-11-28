@@ -20,7 +20,7 @@ This project implements an anime recommender system using collaborative filterin
 
 
 ## Dataset
-The dataset used for this project includes information about anime, genres, directors, and user ratings. The dataset can be found [here](link_to_dataset).
+The dataset used for this project includes information about anime, genres, directors, and user ratings. The dataset can be found [here]((https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)).
 
 ## Concept Used to Build the Model
 - **NearestNeighbors**: This algorithm is used to find similar anime based on user preferences. The model predicts the most similar items for a given user based on collaborative filtering techniques.
