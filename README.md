@@ -18,7 +18,9 @@ An anime recommendation system using collaborative filtering based on user prefe
 This project implements an anime recommender system using collaborative filtering techniques. It uses the `NearestNeighbors` algorithm to suggest anime based on user preferences.
 
 ## Demo
-![Anime Recommender System Demo](path_to_demo_screenshot.png)
+![Anime Recommender System Demo](1.png)
+![Demo-2](2.png)
+![Demo-3](3.png)
 
 ## Dataset
 The dataset used for this project includes information about anime, genres, directors, and user ratings. You can download the dataset from Kaggle using the following link:  
